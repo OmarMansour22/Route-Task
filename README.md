@@ -1,12 +1,38 @@
-# React + Vite
+## 🚀 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Route Task** is a responsive and modern web application built to demonstrate dynamic UI interactions using React, Tailwind CSS, and modern React libraries. The project showcases form handling, API integration, routing, animations, and component-based design using a clean and scalable frontend architecture.
 
-Currently, two official plugins are available:
+This project was created as part of a frontend development task to demonstrate skills in state management, modular UI design, and deployment to GitHub Pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🧩 Core Technologies:
+- **React 19** – Component-based architecture and modern hooks
+- **Vite** – Fast build tool and development server
+- **Tailwind CSS 4** – Utility-first CSS framework for responsive UI
+- **React Router DOM 7** – Client-side routing and navigation
+- **Formik & Yup** – Form management and validation
+- **Axios** – API requests and data fetching
+- **React Toastify** – Notification system
+- **Framer Motion** – Smooth animations and transitions
+- **React Query** – Server state management
+- **Flowbite** – UI components based on Tailwind
+
+### 📦 Dev Tools:
+- **gh-pages** – Deploying the project to GitHub Pages
+- **ESLint** – Code linting and quality checking
+- **@vitejs/plugin-react** – JSX & React support in Vite
+
+---
+
+## 🌍 Deployment
+
+This project is deployed on **GitHub Pages** at:  
+👉 [https://omarmansour22.github.io/Route-Task/](https://omarmansour22.github.io/Route-Task/)
+
+To deploy manually:
+```bash
+npm run build
+npm run deploy
