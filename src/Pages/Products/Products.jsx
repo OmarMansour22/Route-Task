@@ -53,7 +53,7 @@ export default function Products() {
       <div className="flex flex-wrap justify-between items-center gap-4 mb-4">
         {/* Sort Dropdown on the left */}
         <select
-          className="min-w-[170px] p-2 border rounded-lg border-gray-500 text-gray-800 dark:text-white"
+          className="min-w-[170px] p-2 border rounded-lg border-gray-500 text-gray-800 dark:text-black"
           value={sortOption}
           onChange={(e) => setSortOption(e.target.value)}
         >
