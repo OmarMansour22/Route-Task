@@ -10,7 +10,7 @@ import { ToastContainer } from "react-toastify";
 
 const router = createBrowserRouter([
   {
-    path: "",
+    path: "/",
     element: <Layout />,
     children: [
       { index: true, element: <Home /> },
@@ -25,8 +25,9 @@ const router = createBrowserRouter([
       { path: "*", element: <NotFound /> },
     ],
   },
-]);
-
+], {
+  basename: "/Route-Task/",
+});
 let queryClient = new QueryClient();
 
 function App() {
