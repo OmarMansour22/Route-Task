@@ -1,12 +1,50 @@
-# React + Vite
+## 🚀 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Route Task** is a modern and responsive web application showcasing UI design, form validation, routing, API integration, and animations using React and Vite. The project demonstrates clean, modular frontend practices with Tailwind CSS and essential UI libraries.
 
-Currently, two official plugins are available:
+It was created as part of a frontend development task to highlight practical skills in building interactive, scalable interfaces and deploying to GitHub Pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> UI previews of the project:
+
+![Screenshot 1](public/Screenshot1.png)
+![Screenshot 2](public/Screenshot2.png)
+![Screenshot 3](public/Screenshot3.png)
+![Screenshot 4](public/Screenshot4.png)
+
+---
+
+## 🛠 Tech Stack Used
+
+### 🧩 Core Technologies:
+- **React 19** – Functional components and modern hooks
+- **Vite** – Fast and lightweight development/build tool
+- **Tailwind CSS 4** – Utility-first CSS framework
+- **React Router DOM 7** – Navigation and routing
+- **Formik & Yup** – Form handling and validation
+- **Axios** – API calls
+- **React Toastify** – Toast notifications
+- **Framer Motion** – Smooth UI animations
+- **React Query** – Efficient server state management
+- **Flowbite** – Pre-built Tailwind components
+
+### 🧰 Dev Tools:
+- **gh-pages** – GitHub Pages deployment
+- **ESLint** – Code style and linting
+- **@vitejs/plugin-react** – React support in Vite
+
+---
+
+## 🌍 Deployment
+
+The app is live at:  
+👉 [https://omarmansour22.github.io/Route-Task/](https://omarmansour22.github.io/Route-Task/)
+
+### To deploy manually:
+
+```bash
+npm run build
+npm run deploy
