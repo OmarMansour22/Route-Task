@@ -1,6 +1,6 @@
 ## 🚀 Project Overview
 
-**Route Task** is a modern and responsive web application showcasing UI design, form validation, routing, API integration, and animations using React and Vite. The project demonstrates clean, modular frontend practices with Tailwind CSS and essential UI libraries.
+**Route Task** is a modern and responsive web application showcasing UI design, routing, API integration, and animations using React and Vite. The project demonstrates clean, modular frontend practices with Tailwind CSS and essential UI libraries.
 
 It was created as part of a frontend development task to highlight practical skills in building interactive, scalable interfaces and deploying to GitHub Pages.
 
@@ -24,9 +24,7 @@ It was created as part of a frontend development task to highlight practical ski
 - **Vite** – Fast and lightweight development/build tool
 - **Tailwind CSS 4** – Utility-first CSS framework
 - **React Router DOM 7** – Navigation and routing
-- **Formik & Yup** – Form handling and validation
 - **Axios** – API calls
-- **React Toastify** – Toast notifications
 - **Framer Motion** – Smooth UI animations
 - **React Query** – Efficient server state management
 - **Flowbite** – Pre-built Tailwind components
